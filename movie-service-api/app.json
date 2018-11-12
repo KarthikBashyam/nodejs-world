@@ -1,0 +1,8 @@
+{
+  "name": "Start on Heroku: Node.js",
+  "description": "Sample NodeJS Service",
+  "repository": "https://github.com/KarthikBashyam/nodejs-world",
+  "logo": "",
+  "keywords": ["node", "express", "heroku"],
+  "image": ""
+}
