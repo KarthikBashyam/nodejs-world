@@ -1,2 +1,3 @@
 movie-service-api/node_modules
+movie-service-api/package-lock
 .vscode
